@@ -1,8 +1,8 @@
 The gpg signatures are admittedly useless to the general internet, but listeners of the Frontier podcast might find it useful.
 
 **No Agenda Show Bull Shit Filter**
-Originally published 2011-12-22.
 ```
+Originally published 2011-12-22.
 sha256:cbfebcb5d285ea86a10c35444cefd400b987eab8ac5f50b47bd9e4fe853b3ea9
 ```
 
