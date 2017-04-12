@@ -12,4 +12,4 @@
 ! -----------------------General malvertising block list-----------------------!
 
 arstechncia.com
-ienjoyapps.com
+*.ienjoyapps.com
