@@ -11,5 +11,5 @@
 !
 ! -----------------------General malvertising block list-----------------------!
 
-arstechncia.com
-*.ienjoyapps.com
+127.0.0.1 arstechncia.com
+127.0.0.1 ienjoyapps.com
