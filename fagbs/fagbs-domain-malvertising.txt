@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
-! Version: 1.2
+! Version: 1.3
 ! Title: FAGBS malvertising
-! Last modified: 2017-04-12
-! Expires: 4 days (update frequency)
+! Last modified: 2017-04-18
+! Expires: 30 days (update frequency)
 ! Homepage: http://frothymix.info/fagbs/redirect
-! License: https://easylist.to/pages/licence.html
+! License: http://frothymix.info/fagbs/redirect
 !
-! GitHub issues: https://github.com/easylist/easylist/issues
-! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! GitHub issues: https://github.com/reelsense/browser-scripts-tools/issues
+! GitHub pull requests: https://github.com/reelsense/browser-scripts-tools/pulls
 !
 ! -----------------------General malvertising block list-----------------------!
 
