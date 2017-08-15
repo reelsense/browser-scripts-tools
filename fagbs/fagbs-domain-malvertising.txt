@@ -13,4 +13,4 @@
 
 127.0.0.1 arstechncia.com
 127.0.0.1 ienjoyapps.com
-127.0.0.1 lifewire.com
+127.0.0.1 *.lifewire.com
