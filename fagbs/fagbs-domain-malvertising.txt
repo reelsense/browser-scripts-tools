@@ -16,3 +16,5 @@
 127.0.0.1 www.lifewire.com
 127.0.0.1 lifewire.com
 127.0.0.1 oekomedia.com
+127.0.0.1 googlechrome2018.com
+127.0.0.1 googlechrome2018download.com
