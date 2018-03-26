@@ -32,3 +32,4 @@
 127.0.0.1 googlechrome2020.com
 127.0.0.1 googlechrome2020download.com
 127.0.0.1 googlechromelatest.com
+127.0.0.1 chromeofflineinstallers.com
