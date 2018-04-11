@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1.4
 ! Title: FAGBS malvertising
-! Last modified: 2017-08-14
+! Last modified: 2018-04-10
 ! Expires: 30 days (update frequency)
 ! Homepage: http://frothymix.info/fagbs/redirect
 ! License: http://frothymix.info/fagbs/redirect
