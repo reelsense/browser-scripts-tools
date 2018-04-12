@@ -1,3 +1,14 @@
+# [Portable Google Chrome Profile Privacy Hacks](https://github.com/reelsense/privacy-hacks)
+
+I occasionally need access to files or messages from my personal Google accounts at work.
+
+* Work computer is not mine.
+* Don't want my personal Chrome profile and account credentials written to disk and accessible by another user.
+* Tired of signing into Chrome Incognito tabs all the time.
+* Tired of this shit.
+
+[Hosted in separate repository](https://github.com/reelsense/privacy-hacks)
+
 # UserScripts or Greasemonkey Scripts
 Scripts for Greasemonkey and for other browsers that support userscripts.
 
