@@ -40,3 +40,4 @@
 127.0.0.1 getcdnups.com
 127.0.0.1 india-abc.com
 127.0.0.1 choicecake.win
+127.0.0.1 electrum.com
