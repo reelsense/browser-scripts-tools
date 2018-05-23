@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
-! Version: 1.4
-! Title: FAGBS malvertising
-! Last modified: 2018-04-10
-! Expires: 30 days (update frequency)
-! Homepage: http://frothymix.info/fagbs/redirect
-! License: http://frothymix.info/fagbs/redirect
-!
-! GitHub issues: https://github.com/reelsense/browser-scripts-tools/issues
-! GitHub pull requests: https://github.com/reelsense/browser-scripts-tools/pulls
-!
-! -----------------------General malvertising block list-----------------------!
+# Version: 1.4
+# Title: FAGBS malvertising
+# Last modified: 2018-04-10
+# Expires: 30 days (update frequency)
+# Homepage: http://frothymix.info/fagbs/redirect
+# License: http://frothymix.info/fagbs/redirect
+#
+# GitHub issues: https://github.com/reelsense/browser-scripts-tools/issues
+# GitHub pull requests: https://github.com/reelsense/browser-scripts-tools/pulls
+#
+# -----------------------General malvertising block list-----------------------
 
 127.0.0.1 arstechncia.com
 127.0.0.1 ienjoyapps.com
