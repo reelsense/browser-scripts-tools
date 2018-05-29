@@ -44,3 +44,4 @@
 127.0.0.1 getsecureapp3.com
 127.0.0.1 ctsi-coutnetwork.org
 127.0.0.1 iyfnzgb.com
+127.0.0.1 security.center
