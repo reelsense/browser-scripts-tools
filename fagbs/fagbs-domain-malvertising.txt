@@ -47,3 +47,4 @@
 127.0.0.1 security.center
 127.0.0.1 githubranking.com
 127.0.0.1 githubrank.com
+127.0.0.1 freeofcharge-content.date
