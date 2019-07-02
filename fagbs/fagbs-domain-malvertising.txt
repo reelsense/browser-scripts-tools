@@ -48,3 +48,7 @@
 127.0.0.1 githubranking.com
 127.0.0.1 githubrank.com
 127.0.0.1 freeofcharge-content.date
+127.0.0.1 peegeepee.com
+127.0.0.1 bigshot.cf
+127.0.0.1 bensaga.xyz
+127.0.0.1 medj.mn
