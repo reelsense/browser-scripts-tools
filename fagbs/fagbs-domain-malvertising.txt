@@ -83,3 +83,4 @@
 127.0.0.1 bensaga.xyz
 127.0.0.1 medj.mn
 127.0.0.1 ipshu.com
+127.0.0.1 outline-vpn.com
